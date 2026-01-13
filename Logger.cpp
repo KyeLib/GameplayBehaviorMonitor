@@ -9,7 +9,7 @@
 
 
 
-static std::ofstream logFile{ logs.txt", std::ios::app };
+static std::ofstream logFile{ "logs.txt", std::ios::app };
 
 
 //Gets current date and time
