@@ -10,7 +10,13 @@ This project focuses on the detection logic itself using simulated or recorded d
 ## Goals
 - Design a C++ system for gameplay data analysis
 - Implement detection techniques
+- Log violations for later review
+
+## Planned Features (In no specific order)
 - Capable of multithreading
 - Add thread id
 - Implement a max file size and rotation
-- add console output with color coded logs
+- Add console output with color coded logs
+- Measure timing
+- Process list with ids
+- Record memory addresses
