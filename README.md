@@ -15,8 +15,8 @@ This project focuses on the detection logic itself using simulated or recorded d
 ## Planned Features (In no specific order)
 - Capable of multithreading
 - Add thread id
-- Implement a max file size and rotation
-- Add console output with color coded logs
+- Implement a max log file size and rotation
 - Measure timing
 - Process list with ids
 - Record memory addresses
+- Blacklist processess by name
