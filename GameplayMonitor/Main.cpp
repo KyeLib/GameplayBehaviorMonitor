@@ -1,6 +1,6 @@
 #include "Logger.h"
 #include "Processes.h"
-
+#include "HardwareInfo.h"
 
 
 
@@ -10,13 +10,7 @@ int main()
 {
     Logger::init("logs.txt");
 
-    listProcesses();
-
-    Logger::end();
-
-    Logger::init("logs.txt");
-
-    blackListedProcesses();
+    hardwareInfo();
 
     Logger::end();
 
