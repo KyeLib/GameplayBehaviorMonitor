@@ -8,7 +8,7 @@ So far this project monitors system behavior by logging events, enumerating runn
 - **Structured Logger**
   - Multiple log levels: Info, Warn, Error, Detected
   - Timestamped entries
-  - Persistent `.txt` log output
+  - `.txt` log output
 - **Process Enumeration**
   - Lists all running processes with names and process IDs
 - **Process Blacklisting**
