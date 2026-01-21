@@ -1,6 +1,6 @@
-# GameplayBehaviorMonitor
+# Gantic
 
-GameplayBehaviorMonitor is an educational C++ project inspired by anti-cheat systems.  
+Gantic is an educational C++ project inspired by anti-cheat systems.  
 So far this project monitors system behavior by logging events, enumerating running processes, detecting blacklisted applications, and collecting hardware identifiers for ban use cases.
 
 ## Features
